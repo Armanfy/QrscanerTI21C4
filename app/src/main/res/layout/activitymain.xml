@@ -8,11 +8,11 @@
     android:paddingRight="@dimen/activity_horizontal_margin">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonscan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="QR Code Score"
-        android:layout_alignParentBottom="true"/>
+        android:layout_alignParentBottom="true" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -47,7 +47,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="NIM"
+            android:text="NIM"/>
 
         <TextView
             android:id="@+id/textViewnim"
