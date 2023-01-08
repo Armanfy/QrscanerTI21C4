@@ -55,5 +55,6 @@
             android:layout_height="wrap_content"
             android:text="xyz"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
     </LinearLayout>
 </RelativeLayout>
